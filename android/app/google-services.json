@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054525125550",
+    "project_id": "bloomscape-b1507",
+    "storage_bucket": "bloomscape-b1507.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054525125550:android:bb766ca199885818360e3f",
+        "android_client_info": {
+          "package_name": "com.example.bloomscape_backend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs6zpPpNkwMTXQfAGfUqTkrBYWLCDvGNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
