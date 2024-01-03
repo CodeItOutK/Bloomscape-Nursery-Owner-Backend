@@ -1,16 +1,21 @@
-# bloomscape_backend
 
-A new Flutter project.
+# Bloomscape- Nursery Owner Backend
 
-## Getting Started
+Elevate your nursery's presence effortlessly! The Bloomscape Shopkeeper Backend App lets sellers update product details, opening hours, and settings—ensuring a vibrant showcase on the main app for an enhanced customer experience
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-> Effortless Inventory Management: 📊 Streamline adding, updating, and removing products with a user-friendly interface.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-> Real-Time Product Availability Updates: 🔄 Keep customers informed instantly for accurate information on the main app, enhancing user satisfaction.
+
+-> Customizable Nursery Settings: 🏡 Take control by personalizing settings like the nursery name and opening hours for an engaging customer experience.
+
+-> Responsive Web Interface: 🌐 Enjoy the flexibility of a responsive web-based app accessible from various devices for efficient on-the-go management.
+
+-> Simplified Operational Control: ⚙️ Manage day-to-day operations effortlessly, empowering shopkeepers to make quick decisions and enhance the overall customer experience.
+
+## Demo
+
+https://www.awesomescreenshot.com/video/23664206?key=733669381b1f1e7193a2c771138a39b7
